@@ -1,0 +1,3 @@
+2024.03.01 09:43:27 ➾ Program started
+2024.03.01 09:43:27 ➾ Twitter opened
+2024.03.01 09:43:42 ➾ Failed. Try again

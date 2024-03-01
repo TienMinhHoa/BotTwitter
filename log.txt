@@ -1,0 +1,1795 @@
+
+2023.11.27 10:31:16 ➾ Program started
+2023.11.27 10:31:16 ➾ Twitter opened
+2023.11.27 10:32:47 ➾ Logged in!
+2023.11.27 10:32:47 ➾ Visiting 0 profiles.
+2023.11.27 10:33:35 ➾ Program started
+2023.11.27 10:33:35 ➾ Twitter opened
+2023.11.27 10:35:05 ➾ Logged in!
+2023.11.27 10:35:05 ➾ Visiting 3 profiles.
+2023.11.27 10:35:11 ➾ Visited profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:35:16 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:35:23 ➾ Visited profile: https://twitter.com/YieHsin
+2023.11.27 10:35:27 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 10:35:35 ➾ Visited profile: https://twitter.com/JamesPGorman1
+2023.11.27 10:35:39 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.27 10:40:34 ➾ Program started
+2023.11.27 10:40:34 ➾ Twitter opened
+2023.11.27 10:42:04 ➾ Logged in!
+2023.11.27 10:42:04 ➾ Visiting 2 profiles.
+2023.11.27 10:42:10 ➾ Visited profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:42:13 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:42:21 ➾ Visited profile: https://twitter.com/YieHsin
+2023.11.27 10:42:23 ➾ Followed: https://twitter.com/YieHsin
+2023.11.27 10:42:25 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 10:50:12 ➾ Program started
+2023.11.27 10:50:12 ➾ Twitter opened
+2023.11.27 10:50:27 ➾ Logged in!
+2023.11.27 10:50:28 ➾ Visiting 2 profiles.
+2023.11.27 10:50:34 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:51:27 ➾ Program started
+2023.11.27 10:51:27 ➾ Twitter opened
+2023.11.27 10:51:57 ➾ Logged in!
+2023.11.27 10:51:58 ➾ Visiting 3 profiles.
+2023.11.27 10:52:29 ➾ Program started
+2023.11.27 10:52:29 ➾ Twitter opened
+2023.11.27 10:52:59 ➾ Logged in!
+2023.11.27 10:52:59 ➾ Visiting 3 profiles.
+2023.11.27 10:54:05 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:54:09 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2023.11.27 10:54:28 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2023.11.27 11:00:45 ➾ Program started
+2023.11.27 11:00:45 ➾ Twitter opened
+2023.11.27 11:01:52 ➾ Program started
+2023.11.27 11:01:52 ➾ Twitter opened
+2023.11.27 11:03:22 ➾ Logged in!
+2023.11.27 11:03:23 ➾ Visiting 3 profiles.
+2023.11.27 11:03:30 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.27 11:03:35 ➾ Tweeted at profile: https://twitter.com/larryfink?lang=en
+2023.11.27 11:03:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.27 11:03:49 ➾ Tweeted at profile: https://twitter.com/YieHsin
+2023.11.27 11:03:58 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.27 11:03:58 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.27 22:11:35 ➾ Program started
+2023.11.27 22:11:35 ➾ Twitter opened
+2023.11.27 22:13:05 ➾ Logged in!
+2023.11.27 22:13:06 ➾ Tweeting
+2023.11.27 22:13:13 ➾ Failed to tweet
+2023.11.27 22:13:23 ➾ Failed to tweet
+2023.11.27 22:13:32 ➾ Failed to tweet
+2023.11.27 22:24:39 ➾ Program started
+2023.11.27 22:24:39 ➾ Twitter opened
+2023.11.27 22:25:13 ➾ Program started
+2023.11.27 22:25:13 ➾ Twitter opened
+2023.11.27 22:25:18 ➾ Logged in!
+2023.11.27 22:29:02 ➾ Program started
+2023.11.27 22:29:02 ➾ Twitter opened
+2023.11.27 22:29:07 ➾ Logged in!
+2023.11.27 22:29:44 ➾ Program started
+2023.11.27 22:29:44 ➾ Twitter opened
+2023.11.27 22:29:49 ➾ Logged in!
+2023.11.27 22:32:18 ➾ Program started
+2023.11.27 22:32:18 ➾ Twitter opened
+2023.11.27 22:32:23 ➾ Logged in!
+2023.11.27 22:33:43 ➾ Program started
+2023.11.27 22:33:43 ➾ Twitter opened
+2023.11.27 22:33:48 ➾ Logged in!
+2023.11.27 22:35:53 ➾ Program started
+2023.11.27 22:35:53 ➾ Twitter opened
+2023.11.27 22:35:58 ➾ Logged in!
+2023.11.27 22:39:32 ➾ Program started
+2023.11.27 22:39:32 ➾ Twitter opened
+2023.11.27 22:39:37 ➾ Logged in!
+2023.11.27 22:42:56 ➾ Program started
+2023.11.27 22:42:56 ➾ Twitter opened
+2023.11.27 22:43:01 ➾ Logged in!
+2023.11.27 22:47:19 ➾ Program started
+2023.11.27 22:47:19 ➾ Twitter opened
+2023.11.27 22:47:24 ➾ Logged in!
+2023.11.27 22:47:52 ➾ Program started
+2023.11.27 22:47:52 ➾ Twitter opened
+2023.11.27 22:47:57 ➾ Logged in!
+2023.11.27 23:06:20 ➾ Program started
+2023.11.27 23:06:20 ➾ Twitter opened
+2023.11.27 23:06:25 ➾ Logged in!
+2023.11.27 23:08:17 ➾ Program started
+2023.11.27 23:08:17 ➾ Twitter opened
+2023.11.27 23:08:22 ➾ Logged in!
+2023.11.27 23:12:18 ➾ Program started
+2023.11.27 23:12:18 ➾ Twitter opened
+2023.11.27 23:14:33 ➾ Program started
+2023.11.27 23:14:33 ➾ Twitter opened
+2023.11.27 23:15:23 ➾ Program started
+2023.11.27 23:15:23 ➾ Twitter opened
+2023.11.27 23:19:53 ➾ Program started
+2023.11.27 23:19:53 ➾ Twitter opened
+2023.11.27 23:27:08 ➾ Program started
+2023.11.27 23:27:08 ➾ Twitter opened
+2023.11.27 23:30:29 ➾ Program started
+2023.11.27 23:30:29 ➾ Twitter opened
+2023.11.27 23:31:47 ➾ Program started
+2023.11.27 23:31:47 ➾ Twitter opened
+2023.11.27 23:33:23 ➾ Program started
+2023.11.27 23:33:23 ➾ Twitter opened
+2023.11.27 23:36:51 ➾ Program started
+2023.11.27 23:36:51 ➾ Twitter opened
+2023.11.27 23:39:25 ➾ Program started
+2023.11.27 23:39:25 ➾ Twitter opened
+2023.11.27 23:39:32 ➾ Program started
+2023.11.27 23:39:32 ➾ Twitter opened
+2023.11.27 23:39:41 ➾ Program started
+2023.11.27 23:39:41 ➾ Twitter opened
+2023.11.27 23:40:35 ➾ Program started
+2023.11.27 23:40:35 ➾ Twitter opened
+2023.11.27 23:40:42 ➾ Program started
+2023.11.27 23:40:42 ➾ Twitter opened
+2023.11.27 23:41:23 ➾ Program started
+2023.11.27 23:41:23 ➾ Twitter opened
+2023.11.27 23:44:13 ➾ Program started
+2023.11.27 23:44:13 ➾ Twitter opened
+2023.11.27 23:44:37 ➾ Program started
+2023.11.27 23:44:37 ➾ Twitter opened
+2023.11.27 23:46:51 ➾ Program started
+2023.11.27 23:46:51 ➾ Twitter opened
+2023.11.27 23:47:43 ➾ Program started
+2023.11.27 23:47:43 ➾ Twitter opened
+2023.11.27 23:50:17 ➾ Program started
+2023.11.27 23:50:17 ➾ Twitter opened
+2023.11.27 23:51:07 ➾ Program started
+2023.11.27 23:51:07 ➾ Twitter opened
+2023.11.27 23:53:35 ➾ Program started
+2023.11.27 23:53:35 ➾ Twitter opened
+2023.11.27 23:55:11 ➾ Program started
+2023.11.27 23:55:11 ➾ Twitter opened
+2023.11.28 00:08:43 ➾ Program started
+2023.11.28 00:08:43 ➾ Twitter opened
+2023.11.28 00:08:48 ➾ Logged in!
+2023.11.28 00:12:13 ➾ Program started
+2023.11.28 00:12:13 ➾ Twitter opened
+2023.11.28 00:13:43 ➾ Logged in!
+2023.11.28 00:13:44 ➾ Visiting 0 profiles.
+2023.11.28 00:14:19 ➾ Program started
+2023.11.28 00:14:19 ➾ Twitter opened
+2023.11.28 00:14:44 ➾ Logged in!
+2023.11.28 00:14:45 ➾ Visiting 0 profiles.
+2023.11.28 00:15:37 ➾ Program started
+2023.11.28 00:15:37 ➾ Twitter opened
+2023.11.28 00:16:01 ➾ Logged in!
+2023.11.28 00:16:02 ➾ Visiting 0 profiles.
+2023.11.28 00:16:43 ➾ Program started
+2023.11.28 00:16:43 ➾ Twitter opened
+2023.11.28 00:16:55 ➾ Program started
+2023.11.28 00:16:55 ➾ Twitter opened
+2023.11.28 00:17:24 ➾ Logged in!
+2023.11.28 00:17:25 ➾ Visiting 2 profiles.
+2023.11.28 00:17:31 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:17:36 ➾ Tweeted at profile: https://twitter.com/YieHsin
+2023.11.28 00:17:45 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:17:49 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:19:05 ➾ Program started
+2023.11.28 00:19:05 ➾ Twitter opened
+2023.11.28 00:19:27 ➾ Logged in!
+2023.11.28 00:19:28 ➾ Visiting 3 profiles.
+2023.11.28 00:19:35 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:19:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:19:55 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:22:46 ➾ Program started
+2023.11.28 00:22:46 ➾ Twitter opened
+2023.11.28 00:27:04 ➾ Program started
+2023.11.28 00:27:04 ➾ Twitter opened
+2023.11.28 00:27:26 ➾ Logged in!
+2023.11.28 00:27:28 ➾ Visiting 3 profiles.
+2023.11.28 00:27:32 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:27:40 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:27:47 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:29:13 ➾ Program started
+2023.11.28 00:29:13 ➾ Twitter opened
+2023.11.28 00:29:31 ➾ Logged in!
+2023.11.28 00:29:32 ➾ Visiting 3 profiles.
+2023.11.28 00:29:37 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:29:45 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:29:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:31:38 ➾ Program started
+2023.11.28 00:31:38 ➾ Twitter opened
+2023.11.28 00:32:05 ➾ Logged in!
+2023.11.28 00:32:06 ➾ Visiting 3 profiles.
+2023.11.28 00:32:10 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:32:14 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:32:18 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:32:27 ➾ Program started
+2023.11.28 00:32:27 ➾ Twitter opened
+2023.11.28 00:32:52 ➾ Logged in!
+2023.11.28 00:32:53 ➾ Visiting 3 profiles.
+2023.11.28 00:32:57 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2023.11.28 00:33:02 ➾ Tweeted at profile: https://twitter.com/larryfink?lang=en : example1
+2023.11.28 00:33:09 ➾ Followed profile: https://twitter.com/YieHsin
+2023.11.28 00:33:14 ➾ Tweeted at profile: https://twitter.com/YieHsin : example2
+2023.11.28 00:33:20 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2023.11.28 00:33:25 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : example3
+2023.11.28 00:35:07 ➾ Program started
+2023.11.28 00:35:07 ➾ Twitter opened
+2023.11.28 00:35:39 ➾ Logged in!
+2023.11.28 00:35:40 ➾ Tweeting
+2023.11.28 00:35:44 ➾ Failed to tweet
+2023.11.28 00:35:52 ➾ Failed to tweet
+2023.11.28 00:36:00 ➾ Failed to tweet
+2023.11.28 00:37:18 ➾ Program started
+2023.11.28 00:37:18 ➾ Twitter opened
+2023.11.28 00:37:33 ➾ Logged in!
+2023.11.28 00:37:35 ➾ Tweeting
+2023.11.28 00:37:40 ➾ Failed to tweet
+2023.11.28 00:37:47 ➾ Failed to tweet
+2023.11.28 00:37:50 ➾ Failed to tweet
+2023.11.28 00:38:17 ➾ Program started
+2023.11.28 00:38:17 ➾ Twitter opened
+2023.11.28 00:38:44 ➾ Logged in!
+2023.11.28 00:38:45 ➾ Tweeting
+2023.11.28 00:38:49 ➾ Failed to tweet
+2023.11.28 00:38:57 ➾ Failed to tweet
+2023.11.28 00:39:04 ➾ Failed to tweet
+2023.11.28 00:40:42 ➾ Program started
+2023.11.28 00:40:42 ➾ Twitter opened
+2023.11.28 00:40:58 ➾ Logged in!
+2023.11.28 00:40:58 ➾ Tweeting
+2023.11.28 00:41:03 ➾ Failed to tweet
+2023.11.28 00:41:11 ➾ Failed to tweet
+2023.11.28 00:41:58 ➾ Program started
+2023.11.28 00:41:58 ➾ Twitter opened
+2023.11.28 00:42:15 ➾ Logged in!
+2023.11.28 00:42:15 ➾ Tweeting
+2023.11.28 00:42:21 ➾ Failed to tweet
+2023.11.28 00:42:25 ➾ Failed to tweet
+2023.11.28 00:44:13 ➾ Program started
+2023.11.28 00:44:13 ➾ Twitter opened
+2023.11.28 00:44:27 ➾ Logged in!
+2023.11.28 00:44:29 ➾ Tweeting
+2023.11.28 00:44:34 ➾ Failed to tweet
+2023.11.28 00:44:38 ➾ Failed to tweet
+2023.11.28 00:45:30 ➾ Program started
+2023.11.28 00:45:30 ➾ Twitter opened
+2023.11.28 00:45:49 ➾ Logged in!
+2023.11.28 00:45:50 ➾ Tweeting
+2023.11.28 00:45:56 ➾ Tweeted : example5
+2023.11.28 00:46:06 ➾ Tweeted : example6
+2024.01.13 08:31:36 ➾ Program started
+2024.01.13 08:31:36 ➾ Twitter opened
+2024.01.13 08:33:06 ➾ Failed. Try again
+2024.01.13 08:34:45 ➾ Program started
+2024.01.13 08:34:45 ➾ Twitter opened
+2024.01.13 08:35:31 ➾ Failed. Try again
+2024.01.13 08:36:46 ➾ Program started
+2024.01.13 08:36:46 ➾ Twitter opened
+2024.01.13 08:37:29 ➾ Failed. Try again
+2024.01.13 08:39:21 ➾ Program started
+2024.01.13 08:39:21 ➾ Twitter opened
+2024.01.13 08:40:51 ➾ Failed. Try again
+2024.01.13 08:41:23 ➾ Program started
+2024.01.13 08:41:23 ➾ Twitter opened
+2024.01.13 08:42:53 ➾ Failed. Try again
+2024.01.13 08:45:26 ➾ Program started
+2024.01.13 08:45:26 ➾ Twitter opened
+2024.01.13 08:45:51 ➾ Logged in!
+2024.01.13 08:45:51 ➾ Failed. Try again
+2024.01.13 08:46:50 ➾ Program started
+2024.01.13 08:46:50 ➾ Twitter opened
+2024.01.13 08:47:47 ➾ Logged in!
+2024.01.13 08:47:47 ➾ Failed. Try again
+2024.01.13 08:47:54 ➾ Program started
+2024.01.13 08:47:54 ➾ Twitter opened
+2024.01.13 08:48:44 ➾ Logged in!
+2024.01.13 08:48:44 ➾ Failed. Try again
+2024.01.13 08:52:59 ➾ Program started
+2024.01.13 08:52:59 ➾ Twitter opened
+2024.01.13 08:53:33 ➾ Logged in!
+2024.01.13 08:54:20 ➾ Program started
+2024.01.13 08:54:20 ➾ Twitter opened
+2024.01.13 08:54:57 ➾ Logged in!
+2024.01.13 08:54:58 ➾ Visiting 3 profiles.
+2024.01.13 08:55:02 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.13 08:55:08 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:55:14 ➾ Followed profile: https://twitter.com/larryfink?lang=en
+2024.01.13 08:55:39 ➾ Program started
+2024.01.13 08:55:39 ➾ Twitter opened
+2024.01.13 08:56:19 ➾ Logged in!
+2024.01.13 08:56:19 ➾ Visiting 3 profiles.
+2024.01.13 08:56:23 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.13 08:56:27 ➾ Tweeted at profile: https://twitter.com/YieHsin : example2
+2024.01.13 08:56:34 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:56:37 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.13 08:56:40 ➾ Failed to visit profile: https://twitter.com/larryfink?lang=en
+2024.01.13 09:01:51 ➾ Program started
+2024.01.13 09:01:51 ➾ Twitter opened
+2024.01.13 09:02:23 ➾ Logged in!
+2024.01.13 09:02:23 ➾ Tweeting
+2024.01.13 09:02:29 ➾ Tweeted : example5
+2024.01.13 09:02:39 ➾ Tweeted : example6
+2024.01.13 09:02:48 ➾ Tweeted : example4
+2024.01.13 09:42:49 ➾ Program started
+2024.01.13 09:42:49 ➾ Twitter opened
+2024.01.13 09:43:25 ➾ Logged in!
+2024.01.13 09:43:25 ➾ Failed. Try again
+2024.01.13 09:44:15 ➾ Program started
+2024.01.13 09:44:15 ➾ Twitter opened
+2024.01.13 09:44:59 ➾ Logged in!
+2024.01.13 09:44:59 ➾ Failed. Try again
+2024.01.13 09:54:05 ➾ Program started
+2024.01.13 09:54:05 ➾ Twitter opened
+2024.01.13 09:54:33 ➾ Logged in!
+2024.01.13 09:54:33 ➾ Failed. Try again
+2024.01.13 09:56:11 ➾ Program started
+2024.01.13 09:56:11 ➾ Twitter opened
+2024.01.13 09:56:37 ➾ Logged in!
+2024.01.13 09:56:37 ➾ Failed. Try again
+2024.01.13 09:58:19 ➾ Program started
+2024.01.13 09:58:19 ➾ Twitter opened
+2024.01.13 09:59:11 ➾ Logged in!
+2024.01.13 09:59:11 ➾ Failed. Try again
+2024.01.13 10:00:15 ➾ Program started
+2024.01.13 10:00:15 ➾ Twitter opened
+2024.01.13 10:00:46 ➾ Logged in!
+2024.01.13 10:00:46 ➾ Failed. Try again
+2024.01.13 10:03:54 ➾ Program started
+2024.01.13 10:03:54 ➾ Twitter opened
+2024.01.13 10:04:00 ➾ Failed. Try again
+2024.01.13 10:04:22 ➾ Program started
+2024.01.13 10:04:22 ➾ Twitter opened
+2024.01.13 10:04:48 ➾ Logged in!
+2024.01.13 10:04:48 ➾ Tweeting
+2024.01.13 10:04:55 ➾ Failed to tweet
+2024.01.13 10:05:05 ➾ Failed to tweet
+2024.01.13 10:05:14 ➾ Failed to tweet
+2024.01.13 10:08:13 ➾ Program started
+2024.01.13 10:08:13 ➾ Twitter opened
+2024.01.13 10:08:41 ➾ Logged in!
+2024.01.13 10:08:41 ➾ Tweeting
+2024.01.13 10:08:49 ➾ Failed to tweet
+2024.01.13 10:08:58 ➾ Failed to tweet
+2024.01.13 10:09:08 ➾ Failed to tweet
+2024.01.13 10:11:19 ➾ Program started
+2024.01.13 10:11:19 ➾ Twitter opened
+2024.01.13 10:11:50 ➾ Logged in!
+2024.01.13 10:11:51 ➾ Tweeting
+2024.01.13 10:11:58 ➾ Failed to tweet
+2024.01.13 10:12:08 ➾ Failed to tweet
+2024.01.13 10:17:41 ➾ Program started
+2024.01.13 10:17:41 ➾ Twitter opened
+2024.01.13 10:18:19 ➾ Logged in!
+2024.01.13 10:18:19 ➾ Tweeting
+2024.01.13 10:18:27 ➾ Failed to tweet
+2024.01.13 10:18:36 ➾ Failed to tweet
+2024.01.13 10:18:46 ➾ Failed to tweet
+2024.01.13 10:22:20 ➾ Program started
+2024.01.13 10:22:20 ➾ Twitter opened
+2024.01.13 10:22:51 ➾ Logged in!
+2024.01.13 10:22:52 ➾ Tweeting
+2024.01.13 10:22:58 ➾ Failed to tweet
+2024.01.13 10:23:04 ➾ Failed to tweet
+2024.01.13 10:23:10 ➾ Failed to tweet
+2024.01.13 10:27:32 ➾ Program started
+2024.01.13 10:27:32 ➾ Twitter opened
+2024.01.13 10:27:53 ➾ Logged in!
+2024.01.13 10:27:53 ➾ Tweeting
+2024.01.13 10:28:09 ➾ Failed to tweet
+2024.01.13 10:28:26 ➾ Failed to tweet
+2024.01.13 10:28:43 ➾ Failed to tweet
+2024.01.13 10:29:00 ➾ Program started
+2024.01.13 10:29:00 ➾ Twitter opened
+2024.01.13 10:29:05 ➾ Failed. Try again
+2024.01.13 10:33:07 ➾ Program started
+2024.01.13 10:33:07 ➾ Twitter opened
+2024.01.13 10:33:36 ➾ Logged in!
+2024.01.13 10:33:36 ➾ Tweeting
+2024.01.13 10:33:48 ➾ Failed to tweet
+2024.01.13 10:33:59 ➾ Failed to tweet
+2024.01.13 10:34:11 ➾ Failed to tweet
+2024.01.13 10:36:24 ➾ Program started
+2024.01.13 10:36:24 ➾ Twitter opened
+2024.01.13 10:36:49 ➾ Logged in!
+2024.01.13 10:36:50 ➾ Tweeting
+2024.01.13 10:36:56 ➾ Failed to tweet
+2024.01.13 10:37:02 ➾ Failed to tweet
+2024.01.13 10:37:09 ➾ Failed to tweet
+2024.01.13 10:56:23 ➾ Program started
+2024.01.13 10:56:23 ➾ Twitter opened
+2024.01.13 10:56:48 ➾ Logged in!
+2024.01.13 10:56:48 ➾ Tweeting
+2024.01.13 10:57:05 ➾ Tweeted : example5
+2024.01.13 11:02:35 ➾ Program started
+2024.01.13 11:02:35 ➾ Twitter opened
+2024.01.13 11:03:05 ➾ Logged in!
+2024.01.13 11:03:05 ➾ Tweeting
+2024.01.13 11:03:12 ➾ Failed to tweet
+2024.01.13 11:03:24 ➾ Failed to tweet
+2024.01.13 11:03:37 ➾ Failed to tweet
+2024.01.16 08:19:06 ➾ Program started
+2024.01.16 08:19:06 ➾ Twitter opened
+2024.01.16 08:19:37 ➾ Logged in!
+2024.01.16 08:19:37 ➾ Tweeting
+2024.01.16 08:19:43 ➾ Failed to tweet
+2024.01.16 08:19:50 ➾ Failed to tweet
+2024.01.16 08:19:57 ➾ Failed to tweet
+2024.01.16 08:23:50 ➾ Program started
+2024.01.16 08:23:50 ➾ Twitter opened
+2024.01.16 08:24:15 ➾ Logged in!
+2024.01.16 08:24:15 ➾ Tweeting
+2024.01.16 08:24:21 ➾ Failed to tweet
+2024.01.16 08:24:28 ➾ Failed to tweet
+2024.01.16 08:24:36 ➾ Failed to tweet
+2024.01.16 08:24:45 ➾ Program started
+2024.01.16 08:24:45 ➾ Twitter opened
+2024.01.16 08:31:17 ➾ Program started
+2024.01.16 08:31:17 ➾ Twitter opened
+2024.01.16 08:31:33 ➾ Logged in!
+2024.01.16 08:31:33 ➾ Tweeting
+2024.01.16 08:31:37 ➾ Failed to tweet
+2024.01.16 08:31:41 ➾ Failed to tweet
+2024.01.16 08:31:46 ➾ Failed to tweet
+2024.01.16 08:33:53 ➾ Program started
+2024.01.16 08:33:53 ➾ Twitter opened
+2024.01.16 08:34:18 ➾ Logged in!
+2024.01.16 08:34:18 ➾ Tweeting
+2024.01.16 08:34:22 ➾ Failed to tweet
+2024.01.16 08:34:27 ➾ Failed to tweet
+2024.01.16 08:34:31 ➾ Failed to tweet
+2024.01.16 08:34:53 ➾ Program started
+2024.01.16 08:34:53 ➾ Twitter opened
+2024.01.16 08:35:22 ➾ Logged in!
+2024.01.16 08:35:23 ➾ Tweeting
+2024.01.16 08:35:29 ➾ Failed to tweet
+2024.01.16 08:58:44 ➾ Program started
+2024.01.16 08:58:44 ➾ Twitter opened
+2024.01.16 08:59:16 ➾ Logged in!
+2024.01.16 08:59:17 ➾ Tweeting
+2024.01.16 08:59:22 ➾ Failed to tweet
+2024.01.16 08:59:30 ➾ Failed to tweet
+2024.01.16 08:59:37 ➾ Failed to tweet
+2024.01.16 09:15:32 ➾ Program started
+2024.01.16 09:15:32 ➾ Twitter opened
+2024.01.16 09:15:58 ➾ Logged in!
+2024.01.16 09:15:58 ➾ Tweeting
+2024.01.16 09:16:04 ➾ Failed to tweet
+2024.01.16 09:16:11 ➾ Failed to tweet
+2024.01.16 09:18:51 ➾ Program started
+2024.01.16 09:18:51 ➾ Twitter opened
+2024.01.16 09:19:31 ➾ Logged in!
+2024.01.16 09:19:32 ➾ Tweeting
+2024.01.16 09:19:42 ➾ Failed to tweet
+2024.01.16 09:19:56 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:23:53 ➾ Program started
+2024.01.16 09:23:53 ➾ Twitter opened
+2024.01.16 09:24:16 ➾ Logged in!
+2024.01.16 09:24:16 ➾ Tweeting
+2024.01.16 09:24:27 ➾ Failed to tweet
+2024.01.16 09:24:40 ➾ Failed to tweet
+2024.01.16 09:24:52 ➾ Failed to tweet
+2024.01.16 09:29:17 ➾ Program started
+2024.01.16 09:29:17 ➾ Twitter opened
+2024.01.16 09:29:42 ➾ Logged in!
+2024.01.16 09:29:42 ➾ Tweeting
+2024.01.16 09:30:02 ➾ Failed to tweet
+2024.01.16 09:30:26 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:30:54 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:31:48 ➾ Program started
+2024.01.16 09:31:48 ➾ Twitter opened
+2024.01.16 09:32:13 ➾ Logged in!
+2024.01.16 09:32:14 ➾ Tweeting
+2024.01.16 09:33:05 ➾ Failed to tweet
+2024.01.16 09:36:02 ➾ Program started
+2024.01.16 09:36:02 ➾ Twitter opened
+2024.01.16 09:36:26 ➾ Logged in!
+2024.01.16 09:36:27 ➾ Tweeting
+2024.01.16 09:55:32 ➾ Program started
+2024.01.16 09:55:32 ➾ Twitter opened
+2024.01.16 09:55:56 ➾ Logged in!
+2024.01.16 09:55:56 ➾ Tweeting
+2024.01.16 09:56:06 ➾ Failed to tweet
+2024.01.16 09:56:21 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 09:56:39 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:00:22 ➾ Program started
+2024.01.16 10:00:22 ➾ Twitter opened
+2024.01.16 10:00:45 ➾ Logged in!
+2024.01.16 10:00:46 ➾ Tweeting
+2024.01.16 10:00:56 ➾ Failed to tweet
+2024.01.16 10:01:10 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:01:29 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:06:41 ➾ Program started
+2024.01.16 10:06:41 ➾ Twitter opened
+2024.01.16 10:07:49 ➾ Logged in!
+2024.01.16 10:07:50 ➾ Tweeting
+2024.01.16 10:07:59 ➾ Failed to tweet
+2024.01.16 10:08:09 ➾ Failed to tweet
+2024.01.16 10:08:20 ➾ Failed to tweet
+2024.01.16 10:15:46 ➾ Program started
+2024.01.16 10:15:46 ➾ Twitter opened
+2024.01.16 10:16:19 ➾ Logged in!
+2024.01.16 10:16:19 ➾ Tweeting
+2024.01.16 10:16:23 ➾ Failed to tweet
+2024.01.16 10:16:27 ➾ Failed to tweet
+2024.01.16 10:16:31 ➾ Failed to tweet
+2024.01.16 10:17:01 ➾ Program started
+2024.01.16 10:17:01 ➾ Twitter opened
+2024.01.16 10:17:31 ➾ Logged in!
+2024.01.16 10:17:31 ➾ Tweeting
+2024.01.16 10:17:41 ➾ Failed to tweet
+2024.01.16 10:17:55 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:18:13 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:25:30 ➾ Program started
+2024.01.16 10:25:30 ➾ Twitter opened
+2024.01.16 10:25:55 ➾ Logged in!
+2024.01.16 10:25:55 ➾ Tweeting
+2024.01.16 10:26:05 ➾ Failed to tweet
+2024.01.16 10:26:19 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:26:37 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:35:45 ➾ Program started
+2024.01.16 10:35:45 ➾ Twitter opened
+2024.01.16 10:36:07 ➾ Logged in!
+2024.01.16 10:36:07 ➾ Tweeting
+2024.01.16 10:36:18 ➾ Failed to tweet
+2024.01.16 10:40:16 ➾ Program started
+2024.01.16 10:40:16 ➾ Twitter opened
+2024.01.16 10:40:42 ➾ Logged in!
+2024.01.16 10:40:42 ➾ Tweeting
+2024.01.16 10:42:19 ➾ Program started
+2024.01.16 10:42:19 ➾ Twitter opened
+2024.01.16 10:42:46 ➾ Logged in!
+2024.01.16 10:42:46 ➾ Tweeting
+2024.01.16 10:42:56 ➾ Failed to tweet
+2024.01.16 10:43:11 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:43:28 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:53:13 ➾ Program started
+2024.01.16 10:53:13 ➾ Twitter opened
+2024.01.16 10:53:36 ➾ Logged in!
+2024.01.16 10:53:36 ➾ Tweeting
+2024.01.16 10:53:52 ➾ Failed to tweet
+2024.01.16 10:54:12 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:54:35 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 10:58:55 ➾ Program started
+2024.01.16 10:58:55 ➾ Twitter opened
+2024.01.16 10:59:31 ➾ Logged in!
+2024.01.16 10:59:32 ➾ Tweeting
+2024.01.16 10:59:54 ➾ Failed to tweet
+2024.01.16 11:00:22 ➾ Failed to tweet
+2024.01.16 11:00:51 ➾ Failed to tweet
+2024.01.16 11:04:24 ➾ Program started
+2024.01.16 11:04:24 ➾ Twitter opened
+2024.01.16 11:04:47 ➾ Logged in!
+2024.01.16 11:04:47 ➾ Tweeting
+2024.01.16 11:05:07 ➾ Failed to tweet
+2024.01.16 11:05:31 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:05:58 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:11:16 ➾ Program started
+2024.01.16 11:11:16 ➾ Twitter opened
+2024.01.16 11:11:35 ➾ Logged in!
+2024.01.16 11:11:35 ➾ Tweeting
+2024.01.16 11:11:55 ➾ Failed to tweet
+2024.01.16 11:12:49 ➾ Program started
+2024.01.16 11:12:49 ➾ Twitter opened
+2024.01.16 11:13:11 ➾ Logged in!
+2024.01.16 11:13:11 ➾ Tweeting
+2024.01.16 11:13:30 ➾ Failed to tweet
+2024.01.16 11:13:54 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:19:28 ➾ Program started
+2024.01.16 11:19:28 ➾ Twitter opened
+2024.01.16 11:19:49 ➾ Logged in!
+2024.01.16 11:19:50 ➾ Tweeting
+2024.01.16 11:20:12 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:20:38 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:21:03 ➾ Tweeted : By @abc thank you for the best pic ever
+#picture
+2024.01.16 11:27:41 ➾ Program started
+2024.01.16 11:27:41 ➾ Twitter opened
+2024.01.16 11:28:07 ➾ Logged in!
+2024.01.16 11:28:07 ➾ Visiting 2 profiles.
+2024.01.16 11:28:11 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:28:14 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:28:21 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:28:23 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:29:11 ➾ Program started
+2024.01.16 11:29:11 ➾ Twitter opened
+2024.01.16 11:29:32 ➾ Logged in!
+2024.01.16 11:29:32 ➾ Visiting 2 profiles.
+2024.01.16 11:29:37 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:29:39 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:29:46 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:29:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:30:33 ➾ Program started
+2024.01.16 11:30:33 ➾ Twitter opened
+2024.01.16 11:30:53 ➾ Logged in!
+2024.01.16 11:30:54 ➾ Visiting 2 profiles.
+2024.01.16 11:30:58 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:31:05 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:31:12 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:36:54 ➾ Program started
+2024.01.16 11:36:54 ➾ Twitter opened
+2024.01.16 11:36:55 ➾ Failed. Try again
+2024.01.16 11:37:04 ➾ Program started
+2024.01.16 11:37:04 ➾ Twitter opened
+2024.01.16 11:37:37 ➾ Logged in!
+2024.01.16 11:37:37 ➾ Visiting 2 profiles.
+2024.01.16 11:37:41 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:37:55 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:38:02 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:38:16 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:40:41 ➾ Program started
+2024.01.16 11:40:41 ➾ Twitter opened
+2024.01.16 11:41:12 ➾ Logged in!
+2024.01.16 11:41:12 ➾ Visiting 2 profiles.
+2024.01.16 11:41:16 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:45:02 ➾ Program started
+2024.01.16 11:45:02 ➾ Twitter opened
+2024.01.16 11:45:26 ➾ Logged in!
+2024.01.16 11:45:26 ➾ Visiting 2 profiles.
+2024.01.16 11:45:31 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:45:38 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:45:45 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:45:53 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:47:59 ➾ Program started
+2024.01.16 11:47:59 ➾ Twitter opened
+2024.01.16 11:48:20 ➾ Logged in!
+2024.01.16 11:48:20 ➾ Visiting 2 profiles.
+2024.01.16 11:48:24 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:48:42 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:48:49 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:55:00 ➾ Program started
+2024.01.16 11:55:00 ➾ Twitter opened
+2024.01.16 11:55:27 ➾ Logged in!
+2024.01.16 11:55:27 ➾ Visiting 2 profiles.
+2024.01.16 11:55:32 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:55:49 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 11:55:56 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:56:13 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 11:58:14 ➾ Program started
+2024.01.16 11:58:14 ➾ Twitter opened
+2024.01.16 11:58:34 ➾ Logged in!
+2024.01.16 11:58:34 ➾ Visiting 2 profiles.
+2024.01.16 11:58:38 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 11:58:46 ➾ Failed to visit profile: https://twitter.com/YieHsin
+2024.01.16 11:58:53 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 11:59:01 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.16 13:38:39 ➾ Program started
+2024.01.16 13:38:39 ➾ Twitter opened
+2024.01.16 13:39:13 ➾ Logged in!
+2024.01.16 13:39:13 ➾ Tweeting
+2024.01.16 13:39:34 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 13:39:57 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
+2024.01.16 13:57:15 ➾ Program started
+2024.01.16 13:57:15 ➾ Twitter opened
+2024.01.16 13:57:46 ➾ Logged in!
+2024.01.16 13:57:46 ➾ Failed. Try again
+2024.01.16 14:01:52 ➾ Program started
+2024.01.16 14:01:52 ➾ Twitter opened
+2024.01.16 14:02:15 ➾ Logged in!
+2024.01.16 14:02:15 ➾ Tweeting
+2024.01.16 14:02:36 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 14:02:59 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
+2024.01.16 14:11:10 ➾ Program started
+2024.01.16 14:11:10 ➾ Twitter opened
+2024.01.16 14:11:37 ➾ Logged in!
+2024.01.16 14:11:58 ➾ Program started
+2024.01.16 14:11:58 ➾ Twitter opened
+2024.01.16 14:12:20 ➾ Logged in!
+2024.01.16 14:12:50 ➾ Tweeting
+2024.01.16 14:13:10 ➾ Tweeted : By @abc thank st pic ever
+#picture
+2024.01.16 14:13:33 ➾ Tweeted : By @abc thau for the best pic ever
+#picture
+2024.01.16 14:15:49 ➾ Visiting 2 profiles.
+2024.01.16 14:15:53 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:16:11 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:16:18 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:16:35 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:18:12 ➾ Visiting 2 profiles.
+2024.01.16 14:18:17 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:18:21 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:23:11 ➾ Tweeting
+2024.01.16 14:23:31 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 14:23:54 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 14:25:23 ➾ Program started
+2024.01.16 14:25:23 ➾ Twitter opened
+2024.01.16 14:25:49 ➾ Logged in!
+2024.01.16 14:25:56 ➾ Visiting 1 profiles.
+2024.01.16 14:26:01 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:26:18 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:34:19 ➾ Program started
+2024.01.16 14:34:19 ➾ Twitter opened
+2024.01.16 14:34:48 ➾ Logged in!
+2024.01.16 14:34:57 ➾ Visiting 2 profiles.
+2024.01.16 14:35:01 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:35:19 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:35:27 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:35:45 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 14:37:30 ➾ Visiting 2 profiles.
+2024.01.16 14:37:34 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.16 14:37:53 ➾ Tweeted at profile: https://twitter.com/ZenXHT : By @Alex thank you for the best pic ever
+#picture
+2024.01.16 14:38:00 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:38:18 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:52:29 ➾ Program started
+2024.01.16 14:52:29 ➾ Twitter opened
+2024.01.16 14:52:59 ➾ Logged in!
+2024.01.16 14:56:10 ➾ Tweeting
+2024.01.16 14:56:30 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 14:56:53 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 14:57:32 ➾ Visiting 2 profiles.
+2024.01.16 14:57:36 ➾ Followed profile: https://twitter.com/YieHsin
+2024.01.16 14:57:54 ➾ Tweeted at profile: https://twitter.com/YieHsin : By @Eric thank you for the best pic ever
+#picture
+2024.01.16 14:58:01 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.16 14:58:19 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : By @heather thank you for the best pic ever
+#picture
+2024.01.16 15:21:00 ➾ Program started
+2024.01.16 15:21:00 ➾ Twitter opened
+2024.01.16 15:21:26 ➾ Logged in!
+2024.01.16 15:21:31 ➾ Tweeting
+2024.01.16 15:22:07 ➾ Program started
+2024.01.16 15:22:07 ➾ Twitter opened
+2024.01.16 15:22:29 ➾ Logged in!
+2024.01.16 15:22:46 ➾ Tweeting
+2024.01.16 15:23:06 ➾ Tweeted : By @laura thank st pic ever
+#picture
+2024.01.16 15:23:29 ➾ Tweeted : By @me thau for the best pic ever
+#picture
+2024.01.16 15:24:28 ➾ Tweeting
+2024.01.16 15:24:48 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 15:25:05 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 15:25:18 ➾ tweet element cant send key
+2024.01.16 15:25:24 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:27:41 ➾ Program started
+2024.01.16 15:27:41 ➾ Twitter opened
+2024.01.16 15:28:06 ➾ Logged in!
+2024.01.16 15:28:12 ➾ Tweeting
+2024.01.16 15:28:22 ➾ tweet element cant send key
+2024.01.16 15:28:28 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:34:17 ➾ Program started
+2024.01.16 15:34:17 ➾ Twitter opened
+2024.01.16 15:34:44 ➾ Logged in!
+2024.01.16 15:34:50 ➾ Tweeting
+2024.01.16 15:35:05 ➾ Failed to tweet
+2024.01.16 15:37:55 ➾ Program started
+2024.01.16 15:37:55 ➾ Twitter opened
+2024.01.16 15:38:15 ➾ Logged in!
+2024.01.16 15:38:19 ➾ Tweeting
+2024.01.16 15:38:23 ➾ tweet element cant send key
+2024.01.16 15:38:24 ➾ tweet element cant send key
+2024.01.16 15:38:28 ➾ tweet element cant send key
+2024.01.16 15:38:34 ➾ Failed to tweet
+2024.01.16 15:40:04 ➾ Program started
+2024.01.16 15:40:04 ➾ Twitter opened
+2024.01.16 15:40:35 ➾ Logged in!
+2024.01.16 15:40:45 ➾ Tweeting
+2024.01.16 15:40:54 ➾ tweet element cant send key
+2024.01.16 15:41:00 ➾ Tweeted : Watchlist: #Injective  👀
+
+$42 is strong resistance for $INJ for over a week now.
+
+There's also a small trendline support forming on the 1 hour chart.
+
+Intraday traders, watch out!
+2024.01.16 15:42:24 ➾ Program started
+2024.01.16 15:42:24 ➾ Twitter opened
+2024.01.16 15:42:54 ➾ Logged in!
+2024.01.16 15:43:01 ➾ Tweeting
+2024.01.16 15:43:06 ➾ tweet element cant send key
+2024.01.16 15:43:07 ➾ tweet element cant send key
+2024.01.16 15:43:11 ➾ tweet element cant send key
+2024.01.16 15:43:17 ➾ Failed to tweet
+2024.01.16 15:44:27 ➾ Program started
+2024.01.16 15:44:27 ➾ Twitter opened
+2024.01.16 15:44:49 ➾ Logged in!
+2024.01.16 15:44:53 ➾ Tweeting
+2024.01.16 15:44:57 ➾ tweet element cant send key
+2024.01.16 15:44:58 ➾ tweet element cant send key
+2024.01.16 15:45:02 ➾ tweet element cant send key
+2024.01.16 15:45:08 ➾ Failed to tweet
+2024.01.16 16:02:32 ➾ Program started
+2024.01.16 16:02:32 ➾ Twitter opened
+2024.01.16 16:03:01 ➾ Logged in!
+2024.01.16 16:03:08 ➾ Tweeting
+2024.01.16 16:03:12 ➾ Failed to tweet
+2024.01.16 16:05:00 ➾ Tweeting
+2024.01.16 16:05:05 ➾ Failed to tweet
+2024.01.16 16:07:35 ➾ Tweeting
+2024.01.16 16:07:48 ➾ Failed to tweet
+2024.01.16 16:10:30 ➾ Program started
+2024.01.16 16:10:30 ➾ Twitter opened
+2024.01.16 16:10:53 ➾ Logged in!
+2024.01.16 16:10:59 ➾ Tweeting
+2024.01.16 16:11:12 ➾ Tweeted : Hi
+@levie
+
+@chrisdonahuey
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 16:14:09 ➾ Program started
+2024.01.16 16:14:09 ➾ Twitter opened
+2024.01.16 16:15:34 ➾ Logged in!
+2024.01.16 16:15:47 ➾ Tweeting
+2024.01.16 16:15:52 ➾ Failed to tweet
+2024.01.16 16:16:02 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:16:14 ➾ Failed to tweet
+2024.01.16 16:25:04 ➾ Program started
+2024.01.16 16:25:04 ➾ Twitter opened
+2024.01.16 16:25:28 ➾ Logged in!
+2024.01.16 16:25:34 ➾ Tweeting
+2024.01.16 16:25:40 ➾ Failed to tweet
+2024.01.16 16:27:16 ➾ Program started
+2024.01.16 16:27:16 ➾ Twitter opened
+2024.01.16 16:27:39 ➾ Logged in!
+2024.01.16 16:27:47 ➾ Tweeting
+2024.01.16 16:27:54 ➾ Failed to tweet
+2024.01.16 16:28:27 ➾ Program started
+2024.01.16 16:28:27 ➾ Twitter opened
+2024.01.16 16:28:48 ➾ Logged in!
+2024.01.16 16:28:57 ➾ Tweeting
+2024.01.16 16:29:09 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 16:30:16 ➾ Program started
+2024.01.16 16:30:16 ➾ Twitter opened
+2024.01.16 16:30:36 ➾ Logged in!
+2024.01.16 16:30:46 ➾ Tweeting
+2024.01.16 16:30:51 ➾ Failed to tweet
+2024.01.16 16:33:43 ➾ Program started
+2024.01.16 16:33:43 ➾ Twitter opened
+2024.01.16 16:34:04 ➾ Logged in!
+2024.01.16 16:34:19 ➾ Tweeting
+2024.01.16 16:34:29 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:35:18 ➾ Tweeting
+2024.01.16 16:35:28 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 16:35:55 ➾ Visiting 1 profiles.
+2024.01.16 16:35:59 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.16 16:36:07 ➾ Tweeted at profile: https://twitter.com/ZenXHT : By @Alex thank you for the best pic ever
+#picture
+2024.01.16 16:36:50 ➾ Tweeting
+2024.01.16 16:37:00 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 16:37:19 ➾ Tweeting
+2024.01.16 16:37:28 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:37:36 ➾ Tweeting
+2024.01.16 16:37:45 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:40:49 ➾ Program started
+2024.01.16 16:40:49 ➾ Twitter opened
+2024.01.16 16:41:09 ➾ Logged in!
+2024.01.16 16:41:49 ➾ Tweeting
+2024.01.16 16:41:58 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:44:48 ➾ Program started
+2024.01.16 16:44:48 ➾ Twitter opened
+2024.01.16 16:45:11 ➾ Logged in!
+2024.01.16 16:45:20 ➾ Tweeting
+2024.01.16 16:45:31 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:46:59 ➾ Tweeting
+2024.01.16 16:47:11 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:51:10 ➾ Program started
+2024.01.16 16:51:10 ➾ Twitter opened
+2024.01.16 16:51:32 ➾ Logged in!
+2024.01.16 16:51:39 ➾ Tweeting
+2024.01.16 16:51:50 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 16:53:30 ➾ Tweeting
+2024.01.16 16:53:42 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 16:57:28 ➾ Tweeting
+2024.01.16 16:57:40 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 17:01:39 ➾ Program started
+2024.01.16 17:01:39 ➾ Twitter opened
+2024.01.16 17:02:25 ➾ Logged in!
+2024.01.16 17:02:35 ➾ Tweeting
+2024.01.16 17:02:46 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.16 17:02:59 ➾ Tweeting
+2024.01.16 17:03:13 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:13:42 ➾ Program started
+2024.01.16 17:13:42 ➾ Twitter opened
+2024.01.16 17:14:15 ➾ Logged in!
+2024.01.16 17:14:24 ➾ Tweeting
+2024.01.16 17:14:37 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:18:24 ➾ Program started
+2024.01.16 17:18:24 ➾ Twitter opened
+2024.01.16 17:19:07 ➾ Logged in!
+2024.01.16 17:19:36 ➾ Tweeting
+2024.01.16 17:19:49 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:30:44 ➾ Program started
+2024.01.16 17:30:44 ➾ Twitter opened
+2024.01.16 17:31:07 ➾ Logged in!
+2024.01.16 17:31:15 ➾ Tweeting
+2024.01.16 17:31:28 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:32:13 ➾ Tweeting
+2024.01.16 17:32:25 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 17:34:23 ➾ Tweeting
+2024.01.16 17:34:36 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.16 17:34:46 ➾ Tweeting
+2024.01.16 17:34:58 ➾ Tweeted : By @heather thank you for the best pic ever
+#picture
+2024.01.16 17:35:51 ➾ Tweeting
+2024.01.16 17:36:03 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.16 17:36:10 ➾ Tweeting
+2024.01.16 17:36:21 ➾ Tweeted : By @me thanks for the best pic ever
+#picture
+2024.01.17 08:31:20 ➾ Program started
+2024.01.17 08:31:20 ➾ Twitter opened
+2024.01.17 08:31:50 ➾ Logged in!
+2024.01.17 08:32:17 ➾ Tweeting
+2024.01.17 08:32:31 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:32:47 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 08:34:42 ➾ Tweeting
+2024.01.17 08:34:55 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:35:21 ➾ Tweeting
+2024.01.17 08:35:34 ➾ Tweeted : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 08:36:07 ➾ Tweeting
+2024.01.17 08:36:19 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 08:40:11 ➾ Tweeting
+2024.01.17 08:40:24 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 08:41:04 ➾ Tweeting
+2024.01.17 08:41:16 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 08:57:38 ➾ Visiting 1 profiles.
+2024.01.17 08:57:42 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.17 08:57:51 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.01.17 08:59:29 ➾ Visiting 1 profiles.
+2024.01.17 08:59:33 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 08:59:45 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:00:00 ➾ Visiting 1 profiles.
+2024.01.17 09:00:04 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:00:16 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:02:10 ➾ Tweeting
+2024.01.17 09:02:24 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:04:58 ➾ Visiting 1 profiles.
+2024.01.17 09:05:02 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:05:13 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:05:36 ➾ Visiting 1 profiles.
+2024.01.17 09:05:40 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:05:51 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:05:56 ➾ Tweeting
+2024.01.17 09:06:10 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:07:47 ➾ Program started
+2024.01.17 09:07:47 ➾ Twitter opened
+2024.01.17 09:08:22 ➾ Logged in!
+2024.01.17 09:08:29 ➾ Tweeting
+2024.01.17 09:08:42 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:08:47 ➾ Visiting 1 profiles.
+2024.01.17 09:08:51 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:09:04 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:09:39 ➾ Tweeting
+2024.01.17 09:09:51 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 09:10:03 ➾ Tweeting
+2024.01.17 09:10:17 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:10:38 ➾ Tweeting
+2024.01.17 09:10:51 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:12:32 ➾ Tweeting
+2024.01.17 09:12:36 ➾ Tweeting
+2024.01.17 09:12:55 ➾ Visiting 0 profiles.
+2024.01.17 09:12:56 ➾ Tweeting
+2024.01.17 09:12:56 ➾ Tweeting
+2024.01.17 09:13:01 ➾ Tweeting
+2024.01.17 09:13:15 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:13:54 ➾ Tweeting
+2024.01.17 09:14:08 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:15:01 ➾ Tweeting
+2024.01.17 09:15:07 ➾ Tweeting
+2024.01.17 09:15:18 ➾ Tweeting
+2024.01.17 09:15:32 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:16:12 ➾ Tweeting
+2024.01.17 09:16:24 ➾ Tweeted : #BTC searches in the UK 
+
+We are still early in this cycle
+2024.01.17 09:16:41 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:16:58 ➾ Tweeted : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:17:15 ➾ Tweeted : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:17:32 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:17:49 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:20:24 ➾ Visiting 6 profiles.
+2024.01.17 09:20:28 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.17 09:20:39 ➾ Tweeted at profile: https://twitter.com/ZenXHT : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:20:47 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.17 09:20:59 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@PeterNdegwa_
+ 
+@eqjosh
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:21:06 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:21:18 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:21:21 ➾ Failed to visit profile: nan
+2024.01.17 09:21:24 ➾ Failed to visit profile: nan
+2024.01.17 09:21:27 ➾ Failed to visit profile: nan
+2024.01.17 09:22:29 ➾ Visiting 4 profiles.
+2024.01.17 09:22:34 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.17 09:22:47 ➾ Tweeted at profile: https://twitter.com/larryfink : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:22:54 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.01.17 09:23:06 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@okimatsumoto
+ 
+@MiebachMichael
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.17 09:23:13 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.01.17 09:23:26 ➾ Tweeted at profile: https://twitter.com/WBCollaborative : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 09:23:33 ➾ Followed profile: https://twitter.com/shookresearch
+2024.01.17 09:23:45 ➾ Tweeted at profile: https://twitter.com/shookresearch : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #Health #Job
+2024.01.17 10:56:02 ➾ Program started
+2024.01.17 10:56:02 ➾ Twitter opened
+2024.01.17 10:56:30 ➾ Logged in!
+2024.01.17 10:56:57 ➾ Tweeting
+2024.01.17 10:57:11 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org # #
+2024.01.18 09:22:06 ➾ Program started
+2024.01.18 09:22:06 ➾ Twitter opened
+2024.01.18 09:22:41 ➾ Logged in!
+2024.01.18 09:23:27 ➾ Tweeting
+2024.01.18 09:23:34 ➾ Failed to tweet
+2024.01.18 09:23:41 ➾ Failed to tweet
+2024.01.18 09:28:04 ➾ Program started
+2024.01.18 09:28:04 ➾ Twitter opened
+2024.01.18 09:28:26 ➾ Logged in!
+2024.01.18 09:29:18 ➾ Tweeting
+2024.01.18 09:29:25 ➾ Failed to tweet
+2024.01.18 09:29:39 ➾ Tweeted : Hi
+
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:29:56 ➾ Tweeted : Hi
+
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:32:55 ➾ Program started
+2024.01.18 09:32:55 ➾ Twitter opened
+2024.01.18 09:32:55 ➾ Failed. Try again
+2024.01.18 09:36:10 ➾ Program started
+2024.01.18 09:36:10 ➾ Twitter opened
+2024.01.18 09:37:40 ➾ Failed. Try again
+2024.01.18 09:39:36 ➾ Program started
+2024.01.18 09:39:36 ➾ Twitter opened
+2024.01.18 09:40:03 ➾ Logged in!
+2024.01.18 09:40:17 ➾ Tweeting
+2024.01.18 09:40:31 ➾ Tweeted : Hi
+@abc, andeson, heath, job
+@lee, nick, heath, job
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:40:49 ➾ Tweeted : Hi
+
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:45:33 ➾ Program started
+2024.01.18 09:45:33 ➾ Twitter opened
+2024.01.18 09:45:56 ➾ Logged in!
+2024.01.18 09:46:05 ➾ Tweeting
+2024.01.18 09:46:12 ➾ Failed to tweet
+2024.01.18 09:46:19 ➾ Failed to tweet
+2024.01.18 09:46:47 ➾ Program started
+2024.01.18 09:46:47 ➾ Twitter opened
+2024.01.18 09:47:11 ➾ Logged in!
+2024.01.18 09:47:21 ➾ Tweeting
+2024.01.18 09:47:35 ➾ Tweeted : Hi
+heath
+job
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:47:52 ➾ Tweeted : Hi
+
+
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org  
+2024.01.18 09:53:43 ➾ Program started
+2024.01.18 09:53:43 ➾ Twitter opened
+2024.01.18 09:54:13 ➾ Logged in!
+2024.01.18 09:54:22 ➾ Tweeting
+2024.01.18 09:54:36 ➾ Tweeted : Hi
+@abc
+@andeson
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #heath #job
+2024.01.18 09:54:53 ➾ Tweeted : Hi
+@lee
+@nick
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #heath #job
+2024.01.18 10:20:06 ➾ Program started
+2024.01.18 10:20:06 ➾ Twitter opened
+2024.01.18 10:20:35 ➾ Logged in!
+2024.01.18 10:24:23 ➾ Visiting 2 profiles.
+2024.01.18 10:24:23 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.01.18 10:24:26 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.18 10:24:46 ➾ Visiting 2 profiles.
+2024.01.18 10:24:46 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.01.18 10:24:49 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.01.18 10:25:00 ➾ Visiting 2 profiles.
+2024.01.18 10:25:04 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.18 10:25:16 ➾ Tweeted at profile: https://twitter.com/ZenXHT : Is there the job of President/Chief position? 
+@leona
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 10:25:23 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.18 10:25:35 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 10:32:07 ➾ Program started
+2024.01.18 10:32:07 ➾ Twitter opened
+2024.01.18 10:32:36 ➾ Logged in!
+2024.01.18 10:32:46 ➾ Tweeting
+2024.01.18 10:33:01 ➾ Tweeting
+2024.01.18 10:36:15 ➾ Program started
+2024.01.18 10:36:15 ➾ Twitter opened
+2024.01.18 10:36:37 ➾ Logged in!
+2024.01.18 10:36:44 ➾ Tweeting
+2024.01.18 10:38:02 ➾ Program started
+2024.01.18 10:38:02 ➾ Twitter opened
+2024.01.18 10:38:23 ➾ Logged in!
+2024.01.18 10:38:36 ➾ Tweeting
+2024.01.18 10:39:04 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 10:46:50 ➾ Program started
+2024.01.18 10:46:50 ➾ Twitter opened
+2024.01.18 10:47:12 ➾ Logged in!
+2024.01.18 10:47:18 ➾ Visiting 1 profiles.
+2024.01.18 10:47:22 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.18 10:47:36 ➾ Visiting 2 profiles.
+2024.01.18 10:47:40 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.18 10:47:49 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.18 10:48:02 ➾ Tweeted at profile: https://twitter.com/JamesPGorman1 : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 10:50:32 ➾ Program started
+2024.01.18 10:50:32 ➾ Twitter opened
+2024.01.18 10:52:02 ➾ Failed. Try again
+2024.01.18 10:53:24 ➾ Program started
+2024.01.18 10:53:24 ➾ Twitter opened
+2024.01.18 10:53:45 ➾ Logged in!
+2024.01.18 10:53:56 ➾ Visiting 3 profiles.
+2024.01.18 10:54:00 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.01.18 10:54:09 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.01.18 10:54:18 ➾ Followed profile: https://twitter.com/larryfink
+2024.01.18 10:56:29 ➾ Tweeting
+2024.01.18 10:56:50 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 10:57:07 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 11:42:47 ➾ Tweeting
+2024.01.18 11:43:08 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 11:43:26 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 11:44:19 ➾ Tweeting
+2024.01.18 11:44:33 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.01.18 11:45:09 ➾ Tweeting
+2024.01.18 11:45:23 ➾ Tweeted : Hi
+@levie
+@chrisdonahuey
+Is there the job of President/Chief position? Please donate to TAHK Foundation, then we will help you with your target: - Donating $15,000 USD per month, $150,000 USD per year service - Email to: donate@tahkfoundation.org #heath #job
+2024.02.28 09:16:44 ➾ Program started
+2024.02.28 09:16:44 ➾ Twitter opened
+2024.02.28 09:17:02 ➾ Logged in!
+2024.02.28 09:18:40 ➾ Visiting 1 profiles.
+2024.02.28 09:18:45 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 09:18:52 ➾ Visiting 1 profiles.
+2024.02.28 09:18:55 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:18:59 ➾ Visiting 1 profiles.
+2024.02.28 09:19:04 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:19:10 ➾ Visiting 1 profiles.
+2024.02.28 09:19:14 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 09:19:20 ➾ Visiting 1 profiles.
+2024.02.28 09:19:23 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 09:21:23 ➾ Visiting 1 profiles.
+2024.02.28 09:21:26 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 09:21:31 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 09:21:44 ➾ Visiting 1 profiles.
+2024.02.28 09:21:47 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 09:21:53 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 09:22:08 ➾ Tweeting
+2024.02.28 09:22:23 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 09:24:12 ➾ Visiting 1 profiles.
+2024.02.28 09:24:16 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:24:21 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:24:48 ➾ Visiting 1 profiles.
+2024.02.28 09:24:51 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:24:56 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:25:02 ➾ Visiting 1 profiles.
+2024.02.28 09:25:06 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 09:25:11 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 09:25:39 ➾ Visiting 1 profiles.
+2024.02.28 09:25:43 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:25:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:28:54 ➾ Visiting 1 profiles.
+2024.02.28 09:28:58 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 09:29:03 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 09:40:09 ➾ Visiting 1 profiles.
+2024.02.28 09:40:12 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 09:40:15 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 09:40:25 ➾ Visiting 1 profiles.
+2024.02.28 09:40:32 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:40:38 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:44:33 ➾ Visiting 1 profiles.
+2024.02.28 09:44:37 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 09:45:09 ➾ Visiting 1 profiles.
+2024.02.28 09:45:14 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:52:05 ➾ Program started
+2024.02.28 09:52:05 ➾ Twitter opened
+2024.02.28 09:52:28 ➾ Logged in!
+2024.02.28 09:52:37 ➾ Visiting 1 profiles.
+2024.02.28 09:52:41 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:52:48 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:57:32 ➾ Program started
+2024.02.28 09:57:32 ➾ Twitter opened
+2024.02.28 09:57:43 ➾ Logged in!
+2024.02.28 09:57:49 ➾ Visiting 1 profiles.
+2024.02.28 09:57:53 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 09:57:58 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 10:01:34 ➾ Tweeting
+2024.02.28 10:01:48 ➾ Failed to tweet
+2024.02.28 10:02:37 ➾ Tweeting
+2024.02.28 10:02:44 ➾ Failed to tweet
+2024.02.28 10:06:12 ➾ Program started
+2024.02.28 10:06:12 ➾ Twitter opened
+2024.02.28 10:06:25 ➾ Logged in!
+2024.02.28 10:15:07 ➾ Tweeting
+2024.02.28 10:15:20 ➾ Failed to tweet
+2024.02.28 11:05:08 ➾ Program started
+2024.02.28 11:05:08 ➾ Twitter opened
+2024.02.28 11:05:20 ➾ Logged in!
+2024.02.28 11:05:27 ➾ Tweeting
+2024.02.28 11:05:35 ➾ Failed to tweet
+2024.02.28 11:06:18 ➾ Program started
+2024.02.28 11:06:18 ➾ Twitter opened
+2024.02.28 11:06:28 ➾ Logged in!
+2024.02.28 11:06:36 ➾ Tweeting
+2024.02.28 11:06:43 ➾ Failed to tweet
+2024.02.28 11:08:30 ➾ Program started
+2024.02.28 11:08:30 ➾ Twitter opened
+2024.02.28 11:08:41 ➾ Logged in!
+2024.02.28 11:08:48 ➾ Tweeting
+2024.02.28 11:08:55 ➾ Failed to tweet
+2024.02.28 11:11:24 ➾ Tweeting
+2024.02.28 11:11:31 ➾ Failed to tweet
+2024.02.28 11:13:12 ➾ Program started
+2024.02.28 11:13:12 ➾ Twitter opened
+2024.02.28 11:13:23 ➾ Logged in!
+2024.02.28 11:13:33 ➾ Tweeting
+2024.02.28 11:13:40 ➾ Failed to tweet
+2024.02.28 11:14:21 ➾ Program started
+2024.02.28 11:14:21 ➾ Twitter opened
+2024.02.28 11:14:38 ➾ Logged in!
+2024.02.28 11:14:45 ➾ Tweeting
+2024.02.28 11:14:52 ➾ Failed to tweet
+2024.02.28 11:15:29 ➾ Program started
+2024.02.28 11:15:29 ➾ Twitter opened
+2024.02.28 11:15:41 ➾ Logged in!
+2024.02.28 11:15:47 ➾ Tweeting
+2024.02.28 11:15:59 ➾ Failed to tweet
+2024.02.28 11:19:03 ➾ Program started
+2024.02.28 11:19:03 ➾ Twitter opened
+2024.02.28 11:19:19 ➾ Logged in!
+2024.02.28 11:19:28 ➾ Visiting 1 profiles.
+2024.02.28 11:19:32 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 11:19:36 ➾ Visiting 1 profiles.
+2024.02.28 11:19:39 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 11:19:44 ➾ Visiting 1 profiles.
+2024.02.28 11:19:47 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 11:21:00 ➾ Program started
+2024.02.28 11:21:00 ➾ Twitter opened
+2024.02.28 11:21:12 ➾ Logged in!
+2024.02.28 11:21:16 ➾ Visiting 1 profiles.
+2024.02.28 11:21:24 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 11:23:37 ➾ Program started
+2024.02.28 11:23:37 ➾ Twitter opened
+2024.02.28 11:23:49 ➾ Logged in!
+2024.02.28 11:23:58 ➾ Visiting 1 profiles.
+2024.02.28 11:24:02 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 11:24:12 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 11:28:09 ➾ Program started
+2024.02.28 11:28:09 ➾ Twitter opened
+2024.02.28 11:28:21 ➾ Logged in!
+2024.02.28 11:28:29 ➾ Visiting 1 profiles.
+2024.02.28 11:28:36 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 11:28:45 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 11:29:23 ➾ Program started
+2024.02.28 11:29:23 ➾ Twitter opened
+2024.02.28 11:29:34 ➾ Logged in!
+2024.02.28 11:30:04 ➾ Tweeting
+2024.02.28 11:30:11 ➾ Failed to tweet
+2024.02.28 11:30:24 ➾ Visiting 1 profiles.
+2024.02.28 11:30:31 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 11:30:40 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 11:31:17 ➾ Program started
+2024.02.28 11:31:17 ➾ Twitter opened
+2024.02.28 11:31:29 ➾ Logged in!
+2024.02.28 11:31:41 ➾ Visiting 1 profiles.
+2024.02.28 11:31:48 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 11:31:57 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 13:51:28 ➾ Program started
+2024.02.28 13:51:28 ➾ Twitter opened
+2024.02.28 13:51:49 ➾ Logged in!
+2024.02.28 13:52:58 ➾ Tweeting
+2024.02.28 13:53:05 ➾ Failed to tweet
+2024.02.28 13:53:18 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 13:53:33 ➾ Tweeted : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 13:53:47 ➾ Tweeted : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 13:53:58 ➾ Visiting 4 profiles.
+2024.02.28 13:54:05 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 13:54:09 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 13:54:12 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 13:54:17 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:00:38 ➾ Program started
+2024.02.28 22:00:38 ➾ Twitter opened
+2024.02.28 22:00:53 ➾ Logged in!
+2024.02.28 22:01:02 ➾ Visiting 1 profiles.
+2024.02.28 22:01:06 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:01:16 ➾ Failed to visit profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:01:37 ➾ Tweeting
+2024.02.28 22:01:49 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:03:32 ➾ Program started
+2024.02.28 22:03:32 ➾ Twitter opened
+2024.02.28 22:03:49 ➾ Logged in!
+2024.02.28 22:03:56 ➾ Tweeting
+2024.02.28 22:04:15 ➾ Tweeted : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:05:05 ➾ Program started
+2024.02.28 22:05:05 ➾ Twitter opened
+2024.02.28 22:05:21 ➾ Logged in!
+2024.02.28 22:05:28 ➾ Visiting 1 profiles.
+2024.02.28 22:05:32 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:05:47 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:07:09 ➾ Program started
+2024.02.28 22:07:09 ➾ Twitter opened
+2024.02.28 22:07:21 ➾ Logged in!
+2024.02.28 22:07:29 ➾ Visiting 1 profiles.
+2024.02.28 22:07:37 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:07:42 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:08:13 ➾ Visiting 1 profiles.
+2024.02.28 22:08:17 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:08:30 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:09:35 ➾ Tweeting
+2024.02.28 22:09:53 ➾ Tweeted : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:10:56 ➾ Visiting 1 profiles.
+2024.02.28 22:10:59 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:11:13 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:21:31 ➾ Program started
+2024.02.28 22:21:31 ➾ Twitter opened
+2024.02.28 22:21:49 ➾ Logged in!
+2024.02.28 22:21:59 ➾ Visiting 4 profiles.
+2024.02.28 22:22:06 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:22:12 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:22:18 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:22:24 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:22:30 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 22:22:35 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 22:22:41 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:22:56 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:29:40 ➾ Visiting 3 profiles.
+2024.02.28 22:29:43 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:29:58 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:30:05 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.02.28 22:30:22 ➾ Tweeted at profile: https://twitter.com/WBCollaborative : Is there the job of President/Chief position? 
+@HaoNam19308
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:30:29 ➾ Followed profile: https://twitter.com/shookresearch
+2024.02.28 22:30:46 ➾ Tweeted at profile: https://twitter.com/shookresearch : Is there the job of President/Chief position? 
+@Lee
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:34:25 ➾ Visiting 6 profiles.
+2024.02.28 22:34:32 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:34:37 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:34:44 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:34:49 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:34:56 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 22:35:01 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 22:35:07 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:35:23 ➾ Tweeted at profile: https://twitter.com/calvinmcgruber : Is there the job of President/Chief position? 
+@leona
+@HaoNam19308
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 22:35:30 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.02.28 22:35:32 ➾ Failed to visit profile: https://twitter.com/WBCollaborative
+2024.02.28 22:35:38 ➾ Followed profile: https://twitter.com/shookresearch
+2024.02.28 22:35:41 ➾ Failed to visit profile: https://twitter.com/shookresearch
+2024.02.28 22:39:41 ➾ Program started
+2024.02.28 22:39:41 ➾ Twitter opened
+2024.02.28 22:39:53 ➾ Logged in!
+2024.02.28 22:40:01 ➾ Visiting 6 profiles.
+2024.02.28 22:40:09 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:40:21 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:40:27 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:40:37 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:40:44 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 22:40:53 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 22:41:00 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:41:09 ➾ Failed to visit profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:41:16 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.02.28 22:41:18 ➾ Failed to visit profile: https://twitter.com/WBCollaborative
+2024.02.28 22:41:24 ➾ Followed profile: https://twitter.com/shookresearch
+2024.02.28 22:41:27 ➾ Failed to visit profile: https://twitter.com/shookresearch
+2024.02.28 22:44:44 ➾ Program started
+2024.02.28 22:44:44 ➾ Twitter opened
+2024.02.28 22:44:55 ➾ Logged in!
+2024.02.28 22:45:06 ➾ Visiting 6 profiles.
+2024.02.28 22:45:13 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:45:23 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:45:36 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:45:36 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:45:50 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 22:45:50 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 22:45:57 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:45:57 ➾ Failed to visit profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:46:00 ➾ Failed to visit profile: https://twitter.com/WBCollaborative
+2024.02.28 22:46:03 ➾ Failed to visit profile: https://twitter.com/shookresearch
+2024.02.28 22:46:17 ➾ Program started
+2024.02.28 22:46:17 ➾ Twitter opened
+2024.02.28 22:47:44 ➾ Failed. Try again
+2024.02.28 22:47:56 ➾ Program started
+2024.02.28 22:47:56 ➾ Twitter opened
+2024.02.28 22:48:07 ➾ Logged in!
+2024.02.28 22:48:18 ➾ Visiting 6 profiles.
+2024.02.28 22:48:25 ➾ Followed profile: https://twitter.com/ZenXHT
+2024.02.28 22:48:35 ➾ Failed to visit profile: https://twitter.com/ZenXHT
+2024.02.28 22:48:42 ➾ Followed profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:48:51 ➾ Failed to visit profile: https://twitter.com/JamesPGorman1
+2024.02.28 22:48:58 ➾ Followed profile: https://twitter.com/larryfink
+2024.02.28 22:49:08 ➾ Failed to visit profile: https://twitter.com/larryfink
+2024.02.28 22:49:14 ➾ Followed profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:49:24 ➾ Failed to visit profile: https://twitter.com/calvinmcgruber
+2024.02.28 22:49:30 ➾ Followed profile: https://twitter.com/WBCollaborative
+2024.02.28 22:49:40 ➾ Failed to visit profile: https://twitter.com/WBCollaborative
+2024.02.28 22:49:46 ➾ Followed profile: https://twitter.com/shookresearch
+2024.02.28 22:49:56 ➾ Failed to visit profile: https://twitter.com/shookresearch
+2024.02.28 23:50:26 ➾ Program started
+2024.02.28 23:50:26 ➾ Twitter opened
+2024.02.28 23:50:36 ➾ Logged in!
+2024.02.28 23:56:13 ➾ Program started
+2024.02.28 23:56:13 ➾ Twitter opened
+2024.02.28 23:56:23 ➾ Logged in!
+2024.02.28 23:56:32 ➾ Tweeting
+2024.02.28 23:56:44 ➾ Tweeted : Is there the job of President/Chief position? 
+@leona
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 23:56:47 ➾ Failed to tweet
+2024.02.28 23:56:47 ➾ Failed to tweet
+2024.02.28 23:56:47 ➾ Failed to tweet
+2024.02.28 23:56:47 ➾ Failed to tweet
+2024.02.28 23:56:47 ➾ Failed to tweet
+2024.02.28 23:57:22 ➾ Program started
+2024.02.28 23:57:22 ➾ Twitter opened
+2024.02.28 23:57:35 ➾ Logged in!
+2024.02.28 23:57:44 ➾ Tweeting
+2024.02.28 23:58:02 ➾ Tweeted : Is there the job of President/Chief position? 
+@leona
+@HaoNam19307
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 23:58:24 ➾ Tweeted : Is there the job of President/Chief position? 
+@HaoNam19307
+
+Please donate to TAHK Foundation, then we will help you with your target:
+- Donating $15,000 USD per month, $150,000 USD per year service
+- Email to donate@tahkfoundation.org for your donation.
+2024.02.28 23:58:33 ➾ Failed to tweet
+2024.02.28 23:58:33 ➾ Failed to tweet
+2024.02.28 23:58:33 ➾ Failed to tweet
+2024.02.28 23:58:33 ➾ Failed to tweet
+2024.03.01 09:34:06 ➾ Program started
+2024.03.01 09:34:06 ➾ Twitter opened
+2024.03.01 09:34:20 ➾ Logged in!
